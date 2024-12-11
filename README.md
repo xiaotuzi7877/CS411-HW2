@@ -10,20 +10,27 @@ This project implements a **Wildlife Tracker System** designed to manage wildlif
 ## Directory Structure
 The project is structured into modular folders, each handling a specific responsibility:
 wildlife-tracker/
+
 ├── animal_management/
+
 │   ├── __init__.py
 │   ├── animal_manager.py
 │   ├── animal.py
+
 ├── habitat_management/
 │   ├── __init__.py
 │   ├── habitat_manager.py
 │   ├── habitat.py
+
 ├── migration_management/
 │   ├── __init__.py
 │   ├── migration_manager.py
 │   ├── migration_path.py
+
 ├── formal_specifications.py
+
 ├── README.md
 
+## Late Sumbmission for professor 
 ![Proof of Late Submission](Prove%20of%20Late%20Submission.png)
 
